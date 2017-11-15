@@ -347,6 +347,7 @@ input, select {
   letter-spacing: 0.3px;
   font-family: 'helv_light';
   margin-bottom: 38px;
+  line-height: 25px;
 }
 .willing_cont {
   position: relative;
